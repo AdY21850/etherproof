@@ -1,8 +1,8 @@
-#**etherproof**
+# etherproof
 ETH PROOF: Beginner EVM Course Solidity - Metacrafters
 
 
-This Solidity smart contract, named 'MyToken', is used to create a basic token. It includes the following features:
+This Solidity smart contract, named `MyToken`, is used to create a basic token. It includes the following features:
 
 -Public Variables:
 
